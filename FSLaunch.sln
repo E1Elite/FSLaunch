@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSLaunch", "FSLaunch.csproj", "{9BD2B389-378B-4825-8234-A678B8CC4D2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BD2B389-378B-4825-8234-A678B8CC4D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD2B389-378B-4825-8234-A678B8CC4D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD2B389-378B-4825-8234-A678B8CC4D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD2B389-378B-4825-8234-A678B8CC4D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C729D0E8-0CE5-4E2C-97CF-787FCF7AA2CF}
+	EndGlobalSection
+EndGlobal
